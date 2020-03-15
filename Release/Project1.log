@@ -1,0 +1,9 @@
+﻿  main.cpp
+  visuals.cpp
+c:\users\user\desktop\progect1\project1\project1\visuals.cpp(417): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  165 of 170 functions (97.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Project1.vcxproj -> C:\Users\user\Desktop\Progect1\Project1\Release\Project1.exe
